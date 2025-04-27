@@ -11,3 +11,7 @@ The file name is STAT8320_Project.ipynb
 ## Software Installation
 All additional tools utilized by this project that extended beyond base python are python libraries.
 If a library is used that is not installed on your system, it is recommend to PIP Install the respective library. Instructions to do so are provided here: https://pip.pypa.io/en/stable/installation/. 
+
+## Teamwork Contributions
+Agile Gantt Chart.xlsx provides an overview of which team member was assigned to which task and the timeline associated.
+
