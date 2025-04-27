@@ -2,7 +2,7 @@
 
 ## Original Dataset
 The Moosavi et al. (2023) dataset US Accidents (2016 - 2023): A Countrywide Traffic Accident Dataset was analyzed for this project sourced from https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents.
-The file cannot be directly loaded into this Repo due to the size of the file and limitations of GitHub.
+The file cannot be directly loaded into this Repo due to the size of the file and limitations of GitHub. However, it can be directly downloaded through the provided link.
 
 ## Source Code
 All coding was performed in Python stored in a Jupyter Notebook. Every seciton is commented on what was being performed. Additionally all library functions imported are consolidated at the top of the file.
