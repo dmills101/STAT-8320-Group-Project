@@ -5,7 +5,7 @@ The Moosavi et al. (2023) dataset US Accidents (2016 - 2023): A Countrywide Traf
 The file cannot be directly loaded into this Repo due to the size of the file and limitations of GitHub. However, it can be directly downloaded through the provided link.
 
 ## Source Code
-All coding was performed in Python stored in a Jupyter Notebook, however the file size is too large to store with GitHubs restrictions. The Notebook has been converted to a .py script in place. Every seciton is commented on what was being performed. Additionally all library functions imported are consolidated at the top of the file. The file name is STAT8320_Project.py. The original Notebook can be provided upon request.
+All coding was performed in Python stored in a Jupyter Notebook, however the file size is too large to store with GitHubs restrictions. The original notebook that has been fully run has been zipped and attached as STAT8320_Project.zip. Additionally, the Notebook has been converted to a .py script in place. Every seciton is commented on what was being performed. Additionally all library functions imported are consolidated at the top of the file. The file name is STAT8320_Project.py.
 
 ## Software Installation
 All additional tools utilized by this project that extended beyond base python are python libraries.
